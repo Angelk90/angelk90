@@ -29,14 +29,14 @@
           visibility: hidden;
           height: 0;
           width: 0;
-          animation: show 5s;
+          animation: show 2s;
           animation-fill-mode: forwards;
         }
         .loading {
           visibility: visible;
           height: auto;
           width: auto;
-          animation: hide 5s;
+          animation: hide 2s;
           animation-fill-mode: forwards;
         }
         @keyframes show {
