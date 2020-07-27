@@ -148,14 +148,6 @@
         <div class="failed">
           <br />
           <br />
-          <div class="container">
-            <p id="name">Hi, I'm</p>
-          </div>
-		<p class="bad-day">We're having a really bad day.</p>
-          <p class="taken-over">The Unicorns have taken over. We're doing our best to get them under control and get GitHub back up and running.</p>
-          <div id="suggestions">
-            <a href="#">Contact Support</a> — <a href="#">GitHub Status</a> — <a href="#">@githubstatuss</a>
-          </div>
 		<img href="macbook.svg" x="0" y="0" width="100px" height="100px" />
      </div>
       </div>
