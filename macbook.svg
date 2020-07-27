@@ -1,12 +1,13 @@
 <?xml version="1.0" ?>
 <!DOCTYPE svg  PUBLIC '-//W3C//DTD SVG 1.1//EN'  'http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd'>
-<svg enable-background="new -10.5 -221 1024 1024" height="1024px" version="1.1" viewBox="-10.5 -221 1024 1024" width="1024px" xml:space="preserve" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+<svg enable-background="new 0 0 1024 1024" height="1024px" version="1.1" viewBox="0 0 1024 1024" width="1024px" xml:space="preserve" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" style="background-color:green">
+
 <defs/>
 <path d="M888.063,521h-773.5V29c0-16.016,12.984-29,29-29h715.5c16.017,0,29,12.984,29,29V521z" fill="#020202"/>
 <rect fill="#524D61" height="434" width="689" x="156.813" y="44"/>
 <rect fill="#C3C4C6" height="32.5" width="1006.5" y="521.5"/>
 <path d="M575.5,527.75c0,4.971-4.029,9-9,9h-136c-4.971,0-9-4.029-9-9V521h154V527.75z" fill="#909091"/>
-<text x="0" y="15" fill="red">I love SVG!</text>
+<text x="160" y="70" fill="#0398fc">Hi, I'm Angel</text>
 <path d="M947.5,537.625c0,0.621-0.504,1.125-1.125,1.125h-34.75c-0.621,0-1.125-0.504-1.125-1.125l0,0 c0-0.621,0.504-1.125,1.125-1.125h34.75C946.996,536.5,947.5,537.004,947.5,537.625L947.5,537.625z" fill="#27282A"/>
 <path d="M1.833,552.667c0,0,10.667,19.333,72,18l844-0.333c0,0,63.998,0.999,85.331-17.667H1.833z" fill="#6F6F6F"/>
 <circle cx="501.313" cy="25.458" fill="#232323" r="4.125"/>
