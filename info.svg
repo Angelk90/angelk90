@@ -117,7 +117,7 @@
 	}
         
         #name{
-		font-size: 21px;
+		font-size: 15px;
 	        font-weight: bold;
 		text-shadow: 0 1px 0 #efefef;
 		animation: fadeIn 1s infinite alternate;
