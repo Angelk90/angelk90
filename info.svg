@@ -153,7 +153,7 @@
           <div id="suggestions">
             <a href="#">Contact Support</a> — <a href="#">GitHub Status</a> — <a href="#">@githubstatus</a>
           </div>
-		<img xlink:href="https://raw.githubusercontent.com/angelk90/angelk90/master/macbook.svg" x="200" y="200" width="100px" height="100px" />
+		<img href="https://raw.githubusercontent.com/angelk90/angelk90/master/macbook.svg" x="200" y="200" width="100px" height="100px" />
         </div>
       </div>
     </div>
