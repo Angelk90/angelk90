@@ -149,9 +149,11 @@
           <br />
           <br />
           <div class="container">
-            <p id="name">Hi, I'm #name</p>
+            <p id="name">Hi, I'm <text id="button_label" x="55" y="30" text-anchor="middle" 
+        font-size="25" fill="black" font-family="Verdana">
+        <tref xlink:href="#name" />
+      </text></p>
           </div>
-		        <tref xlink:href="#name" />
 		<p class="bad-day">We're having a really bad day.</p>
           <p class="taken-over">The Unicorns have taken over. We're doing our best to get them under control and get GitHub back up and running.</p>
           <div id="suggestions">
