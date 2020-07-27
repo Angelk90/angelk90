@@ -116,7 +116,7 @@
 		text-align: center;
 	}
         
-        p #name{
+        #name{
 		font-size: 50px;
 		text-shadow: 0 1px 0 #efefef;
 		animation: fadeIn 1s infinite alternate;
