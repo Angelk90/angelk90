@@ -1,3 +1,4 @@
+<link rel="stylesheet" href="https://sindresorhus.com/github-markdown-css/github-markdown.css">
 <div align="center">
   <img src="https://github.com/angelk90/angelk90/raw/master/info.svg?sanitize=true">
   <table>
