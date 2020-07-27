@@ -1,26 +1,8 @@
-<link rel="stylesheet" href="https://sindresorhus.com/github-markdown-css/github-markdown.css">
-<head>
-<style>
-	.markdown-body {
-		box-sizing: border-box;
-		min-width: 200px;
-		max-width: 980px;
-		margin: 0 auto;
-		padding: 45px;
-	}
-
-	@media (max-width: 767px) {
-		.markdown-body {
-			padding: 15px;
-		}
-	}
-</style>
-</head>
 <div align="center">
   <img src="https://github.com/angelk90/angelk90/raw/master/info.svg?sanitize=true">
-  <table>
-  <tr>
-    <td valign="top"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=angelk90&layout=compact&show_icons=true&title_color=ffffff&icon_color=34abeb&text_color=daf7dc&bg_color=151515"/></td>
+  <table border="0">
+  <tr border="0">
+    <td valign="top" border="0"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=angelk90&layout=compact&show_icons=true&title_color=ffffff&icon_color=34abeb&text_color=daf7dc&bg_color=151515"/></td>
     <td valign="top"><img src="https://github-readme-stats.vercel.app/api?username=angelk90&show_icons=true&title_color=ffffff&icon_color=34abeb&text_color=daf7dc&bg_color=151515&hide=prs,issues,contribs"/></td>
   </tr>
 </table>
