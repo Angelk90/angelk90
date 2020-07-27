@@ -29,7 +29,7 @@
           visibility: hidden;
           height: 0;
           width: 0;
-          animation: show 10s;
+          animation: show 5s;
           animation-fill-mode: forwards;
         }
         .loading {
