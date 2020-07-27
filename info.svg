@@ -1,5 +1,7 @@
 <svg fill="none" width="800px" height="400px" xmlns="http://www.w3.org/2000/svg" data-reactroot="">
-	  <ref id="name" param="name" default="Angelj"/>
+	    <defs>
+	  <ref id="name" param="name" default="Angelj" />
+		        </defs>
   <foreignObject width="800px" height="400px">
     <div xmlns="http://www.w3.org/1999/xhtml">
       <style>
