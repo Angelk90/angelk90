@@ -1,5 +1,4 @@
 <div align="center">
-  <img src="https://github.com/Angelk90/angelk90/raw/master/macbook.svg?sanitize=true&name=Angel">
   <img src="https://github.com/angelk90/angelk90/raw/master/info.svg?sanitize=true&name=Angel">
   <table>
   <tr>
