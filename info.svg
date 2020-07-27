@@ -1,4 +1,5 @@
 <svg fill="none" width="800px" height="400px" xmlns="http://www.w3.org/2000/svg" data-reactroot="">
+	  <ref id="name" param="name" default="Angelj"/>
   <foreignObject width="800px" height="400px">
     <div xmlns="http://www.w3.org/1999/xhtml">
       <style>
@@ -146,7 +147,7 @@
           <br />
           <br />
           <div class="container">
-            <p id="name">Hi, I'm Angel</p>
+            <p id="name">Hi, I'm #name</p>
           </div>
 		<p class="bad-day">We're having a really bad day.</p>
           <p class="taken-over">The Unicorns have taken over. We're doing our best to get them under control and get GitHub back up and running.</p>
