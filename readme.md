@@ -1,3 +1,4 @@
+<style>.table-nocaption table { width: 50%;  }</style>
 <div align="center">
   <img src="https://github.com/angelk90/angelk90/raw/master/info.svg?sanitize=true">
   <table cellpadding="0" cellspacing="0" border="0">
