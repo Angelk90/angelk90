@@ -1,4 +1,5 @@
 <link rel="stylesheet" href="https://sindresorhus.com/github-markdown-css/github-markdown.css">
+<head>
 <style>
 	.markdown-body {
 		box-sizing: border-box;
@@ -14,6 +15,7 @@
 		}
 	}
 </style>
+</head>
 <div align="center">
   <img src="https://github.com/angelk90/angelk90/raw/master/info.svg?sanitize=true">
   <table>
