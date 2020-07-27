@@ -145,9 +145,7 @@
         <div class="failed">
           <br />
           <br />
-		<img href="https://github.com/Angelk90/angelk90/raw/master/macbook.svg" x="0" y="0" width="100px" height="100px" />
-		  <img src="https://github.com/Angelk90/angelk90/raw/master/macbook.svg">
-
+                <button style=background:lime>Load</button>
      </div>
       </div>
     </div>
