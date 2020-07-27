@@ -101,6 +101,7 @@
           <div id="suggestions">
             <a href="#">Contact Support</a> — <a href="#">GitHub Status</a> — <a href="#">@githubstatus</a>
           </div>
+          <img src="header.svg" width="800" height="400">
         </div>
       </div>
     </div>
