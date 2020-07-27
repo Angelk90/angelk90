@@ -157,8 +157,9 @@
             <a href="#">Contact Support</a> — <a href="#">GitHub Status</a> — <a href="#">@githubstatuss</a>
           </div>
 		<img href="macbook.svg" x="0" y="0" width="100px" height="100px" />
-		    <use xlink:href="macbook.svg" style="--color_fill: #000;"></use>
-        </div>
+<svg>
+    <use xlink:href="macbook.svg" style="--color_fill: #000;"></use>
+</svg>        </div>
       </div>
     </div>
   </foreignObject>
