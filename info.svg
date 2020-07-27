@@ -73,6 +73,38 @@
             width: 0;
           }
         }
+        
+        .container {
+					font-family:
+						system-ui,
+						-apple-system,
+						'Segoe UI',
+						Roboto,
+						Helvetica,
+						Arial,
+						sans-serif,
+						'Apple Color Emoji',
+						'Segoe UI Emoji';
+					display: flex;
+					flex-direction: column;
+					align-items: center;
+					justify-content: center;
+					margin: 0;
+					width: 100%;
+					height: 400px;
+					background: linear-gradient(-45deg, #fc5c7d, #6a82fb, #05dfd7);
+					background-size: 600% 400%;
+					animation: gradientBackground 10s ease infinite;
+					border-radius: 10px;
+					color: white;
+					text-align: center;
+				}
+        
+        p {
+					font-size: 20px;
+					text-shadow: 0 1px 0 #efefef;
+          animation: fadeIn 1s infinite alternate;
+				}
       </style>
       <div align="center">
         <div class="loading">
@@ -96,10 +128,8 @@
         <div class="failed">
           <br />
           <br />
-          <p class="bad-day">We're having a really bad day..</p>
-          <p class="taken-over">The Unicorns have taken over. We're doing our best to get them under control and get GitHub back up and running.</p>
-          <div id="suggestions">
-            <a href="#">Contact Support</a> — <a href="#">GitHub Status</a> — <a href="#">@githubstatus</a>
+          <div class="container">
+            <p>Angel</p>
           </div>
         </div>
       </div>
