@@ -1,4 +1,4 @@
-<div align="">
+<div align="center">
     <img src="https://raw.githubusercontent.com/Angelk90/angelk90/master/macbook.svg" />
 <table>
 <tr>
