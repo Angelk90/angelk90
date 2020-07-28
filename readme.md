@@ -1,3 +1,5 @@
+<link rel="stylesheet" href="https://www.w3schools.com/tags/styles.css"> 
+ 
 <div align="center">
     <img src="https://raw.githubusercontent.com/Angelk90/angelk90/master/macbook.svg" />
 <table cellspacing="0" cellpadding="0">
