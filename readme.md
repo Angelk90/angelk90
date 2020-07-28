@@ -1,4 +1,4 @@
-<link rel="stylesheet" href="https://www.w3schools.com/tags/styles.css"> 
+<link rel="stylesheet" href="styles.css"> 
  
 <div align="center">
     <img src="https://raw.githubusercontent.com/Angelk90/angelk90/master/macbook.svg" />
