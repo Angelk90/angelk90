@@ -1,5 +1,5 @@
  <div align="center">
- <img src="https://raw.githubusercontent.com/Angelk90/angelk90/master/macbook.svg" />
+ <img src="https://raw.githubusercontent.com/Angelk90/angelk90/b5172dd08d7edf0637efff310019dee1d0cd9d06/macbook.svg" />
  <table cellspacing="0" cellpadding="0">
  <tr cellspacing="0" cellpadding="0">
  <td valign="top" cellspacing="0" cellpadding="0">
