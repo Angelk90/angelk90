@@ -1,6 +1,6 @@
 <div align="center">
     <img src="https://raw.githubusercontent.com/Angelk90/angelk90/master/macbook.svg" />
-<table>
+<table cellspacing="0" cellpadding="0">
 <tr>
 <td valign="top">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=angelk90&layout=compact&show_icons=true&title_color=ffffff&icon_color=34abeb&text_color=daf7dc&bg_color=002b36"/>
