@@ -1,4 +1,4 @@
-<link rel="stylesheet" href="styles.css"> 
+<link rel="stylesheet" href="https://raw.githubusercontent.com/Angelk90/angelk90/master/styles.css"> 
  
 <div align="center">
     <img src="https://raw.githubusercontent.com/Angelk90/angelk90/master/macbook.svg" />
