@@ -1,0 +1,992 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   inkscape:version="1.0 (4035a4f, 2020-05-01)"
+   sodipodi:docname="mac.svg"
+   id="svg312"
+   version="1.1"
+   viewBox="0 0 330 400"
+   preserveAspectRatio="xMinYMin meet"
+   class="Illustration Hero__svg">
+  <metadata
+     id="metadata316">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <sodipodi:namedview
+     inkscape:current-layer="svg312"
+     inkscape:window-maximized="0"
+     inkscape:window-y="0"
+     inkscape:window-x="0"
+     inkscape:cy="297.61026"
+     inkscape:cx="145.52555"
+     inkscape:zoom="1.1451841"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1"
+     objecttolerance="10"
+     gridtolerance="10"
+     guidetolerance="10"
+     inkscape:pageopacity="0"
+     inkscape:pageshadow="2"
+     inkscape:window-width="1440"
+     inkscape:window-height="900"
+     id="namedview314"
+     showgrid="false" />
+  <defs
+     id="defs16">
+    <clipPath
+       id="clippy">
+      <rect
+         id="rect10"
+         fill="none"
+         height="81.84"
+         width="52.38"
+         y="248.2"
+         x="133.98" />
+    </clipPath>
+    <clipPath
+       id="screen">
+      <rect
+         id="rect13"
+         fill="none"
+         height="95.74"
+         width="184.29"
+         y="240.73"
+         x="128.39" />
+    </clipPath>
+  </defs>
+  <g
+     id="g310"
+     style="isolation:isolate">
+    <rect
+       opacity="1"
+       y="0"
+       x="0"
+       height="474.42947"
+       width="383.80811"
+       id="rect626"
+       style="fill:#ccc" />
+    <g
+       data-name="1"
+       id="_1">
+      <rect
+         fill="#404040"
+         rx="5"
+         height="10"
+         width="282"
+         y="380.3"
+         x="37.83"
+         id="desk" />
+      <g
+         id="coffee">
+        <path
+           id="path94"
+           fill-rule="evenodd"
+           fill="#00ccff"
+           d="M107.54 356.89c.08 4.69-1.07 19.42-4.84 23.22h-8.08c-3.77-3.8-4.92-18.53-4.84-23.22z" />
+        <path
+           id="path96"
+           style="opacity: 1; stroke-dashoffset: 16.4006; stroke-dasharray: 0px, 999999px;"
+           stroke-miterlimit="10"
+           stroke-linecap="round"
+           stroke="#d1d1d1"
+           fill="none"
+           d="M99.48,350.34c-.56-.56-3-3.52,0-6.2s1.93-3.76.11-6.19"
+           class="steam"
+           opacity="0" />
+        <path
+           id="path98"
+           style="opacity: 1; stroke-dashoffset: 16.4011; stroke-dasharray: 0px, 999999px;"
+           stroke-miterlimit="10"
+           stroke-linecap="round"
+           stroke="#d1d1d1"
+           fill="none"
+           d="M103.68,354.83c-.56-.56-3-3.52,0-6.19s1.93-3.76.11-6.2"
+           class="steam"
+           opacity="0" />
+        <path
+           id="path100"
+           style="opacity: 1; stroke-dashoffset: 15.4049; stroke-dasharray: 0px, 999999px;"
+           stroke-miterlimit="10"
+           stroke-linecap="round"
+           stroke="#d1d1d1"
+           fill="none"
+           d="M93.57,354.83c-.57-.56-3-3.52,0-6.19s1.92-3.76.1-6.2"
+           class="steam"
+           opacity="0" />
+      </g>
+      <g
+         id="pc">
+        <polygon
+           id="polygon103"
+           fill="#d2cfd6"
+           points="238.13 377.72 235.66 361.98 205.21 361.98 202.74 377.72 238.13 377.72" />
+        <path
+           id="path105"
+           fill="#fff"
+           d="M124.59 363.8a3.31 3.31 0 01-3.3-3.31v-18.76h198.29v18.76a3.32 3.32 0 01-3.31 3.31z" />
+        <path
+           id="path107"
+           fill="#404040"
+           d="M319.33 342v18.51a3.06 3.06 0 01-3.06 3.06H124.59a3.06 3.06 0 01-3-3.06V342h197.74m.5-.5H121v19a3.56 3.56 0 003.55 3.56h191.72a3.56 3.56 0 003.56-3.56v-19z" />
+        <path
+           id="path109"
+           fill="#404040"
+           d="M314.36 234.24H126.51a5.45 5.45 0 00-5.47 5.43v103.2h198.79v-103.2a5.45 5.45 0 00-5.47-5.43z" />
+        <rect
+           id="rect111"
+           fill="#e3d1e5"
+           height="95.74"
+           width="184.29"
+           y="240.73"
+           x="128.39" />
+        <rect
+           id="rect113"
+           fill="#eaeaea"
+           height="2.36"
+           width="64.27"
+           y="377.72"
+           x="188.3" />
+        <ellipse
+           id="ellipse115"
+           fill="#333"
+           ry="3.81"
+           rx="3.84"
+           cy="353.63"
+           cx="220.43" />
+        <g
+           id="g242"
+           clip-path="url(#screen)">
+          <g
+             id="vs-code">
+            <rect
+               id="rect117"
+               fill="#565266"
+               height="95.74"
+               width="119.55"
+               y="240.73"
+               x="193.2" />
+            <rect
+               id="rect119"
+               fill="#b0baea"
+               height="6.45"
+               width="119.55"
+               y="240.73"
+               x="193.2" />
+            <ellipse
+               id="ellipse121"
+               fill="#e84d4d"
+               ry="1.38"
+               rx="1.4"
+               cy="243.95"
+               cx="198.98" />
+            <ellipse
+               id="ellipse123"
+               fill="#f2dd77"
+               ry="1.38"
+               rx="1.4"
+               cy="243.95"
+               cx="204.19" />
+            <ellipse
+               id="ellipse125"
+               fill="#4eb785"
+               ry="1.38"
+               rx="1.4"
+               cy="243.95"
+               cx="209.14" />
+            <g
+               id="g129"
+               fill="#706d84">
+              <path
+                 id="path127"
+                 d="M200.08 252.61c1.17-.07 1.49-.16 1.49-.37s-.33-.43-1.24-.55v-.34l1.11-.86h-1.3v-.68h2.05l.06.68-1.06.8c.83.18 1.15.51 1.15.9 0 .6-.67 1.05-2.21 1.13zM203.13 253.24l-.07-.61c1-.7 1.5-1.16 1.5-1.61s-.32-.5-1.4-.53l.07-.72c1.63 0 2.11.46 2.11 1s-.5 1.14-1.32 1.76h1.39v.67zM200.08 259.26c1.17-.07 1.49-.17 1.49-.38s-.33-.42-1.24-.54V258l1.11-.87h-1.3v-.67h2.05l.06.67-1.06.81c.83.17 1.15.51 1.15.89 0 .61-.67 1.06-2.21 1.14zM203.13 259.89l-.07-.61c1-.71 1.5-1.16 1.5-1.61s-.32-.5-1.4-.53l.07-.73c1.63 0 2.11.47 2.11 1s-.5 1.15-1.32 1.77h1.39v.67zM200.08 265.91c1.17-.07 1.49-.17 1.49-.38s-.33-.42-1.24-.54v-.34l1.11-.87h-1.3v-.67h2.05l.06.67-1.06.81c.83.17 1.15.51 1.15.89 0 .61-.67 1.06-2.21 1.14zM205.23 266v.59h-.73V266h-1.44a11.57 11.57 0 01.33-2.88l.84.05-.55 2.16h.82v-1.13l.73-.08v1.16h.37l-.07.67zM200.08 272.56c1.17-.08 1.49-.17 1.49-.38s-.33-.43-1.24-.54v-.35l1.11-.86h-1.3v-.68h2.05l.06.68-1.06.81c.83.17 1.15.51 1.15.89 0 .6-.67 1.06-2.21 1.13zM203.17 273.27v-.72c1.17-.09 1.53-.2 1.53-.49s-.39-.42-1.44-.54l.11-1.77h2l-.06.69H204v.59c1.11.17 1.44.56 1.44 1-.04.63-.7 1.15-2.27 1.24zM200.08 279.2c1.17-.07 1.49-.16 1.49-.37s-.33-.43-1.24-.55v-.34l1.11-.86h-1.3v-.68h2.05l.06.68-1.06.81c.83.17 1.15.51 1.15.89 0 .6-.67 1.05-2.21 1.13zM203 278.55c0-1 .56-1.73 1.83-2.27l.32.65c-.84.31-1.19.61-1.33 1 .78-.45 1.67-.08 1.67.8a1.25 1.25 0 11-2.49-.17zm1.76.23c0-.48-.41-.67-1-.4v.09c0 .59.25.83.56.83s.44-.17.44-.52zM200.08 285.85c1.17-.07 1.49-.16 1.49-.37s-.33-.43-1.24-.55v-.34l1.11-.86h-1.3v-.68h2.05l.06.68-1.06.8c.83.18 1.15.51 1.15.9 0 .6-.67 1.05-2.21 1.13zM203.39 286.45a13.46 13.46 0 011.31-2.67h-1.6l.06-.7h2.33v.68a14.72 14.72 0 00-1.3 2.8zM200.08 292.5c1.17-.07 1.49-.17 1.49-.38s-.33-.42-1.24-.54v-.34l1.11-.87h-1.3v-.67h2.05l.06.67-1.06.81c.83.17 1.15.51 1.15.89 0 .61-.67 1.06-2.21 1.14zM203 292.33a.92.92 0 00.05-1.74c0-.48.42-1 1.22-1 .63 0 1.13.33 1.13.84a1 1 0 01-.61.86c.36.21.68.47.68.89s-.49 1-1.3 1-1.17-.32-1.17-.85zm1.71 0c0-.25-.32-.44-.68-.64a.67.67 0 00-.29.52c0 .25.15.44.5.44s.48-.17.48-.35zm-.32-1.21a.63.63 0 00.27-.48c0-.23-.12-.4-.44-.4s-.42.14-.42.29.28.39.6.56zM200.08 299.15c1.17-.07 1.49-.17 1.49-.38s-.33-.43-1.24-.54v-.35l1.11-.86h-1.3v-.67h2.05l.06.67-1.06.81c.83.17 1.15.51 1.15.89 0 .6-.67 1.06-2.21 1.14zM203.33 299.25c.84-.32 1.19-.61 1.33-1-.78.44-1.67.08-1.67-.8a1.25 1.25 0 112.49.17c0 1-.56 1.73-1.83 2.27zm1.41-1.45v-.09c0-.59-.25-.83-.56-.83s-.46.17-.46.51c0 .49.41.67 1.02.41zM202.16 305.84v.59h-.73v-.59H200a11.57 11.57 0 01.33-2.88l.84.05-.55 2.16h.82v-1.08l.73-.08v1.16h.36l-.06.67zM202.94 304.77c0-1.11.51-1.85 1.34-1.85s1.26.65 1.26 1.73-.51 1.85-1.35 1.85-1.25-.65-1.25-1.73zm.75-.07l1.05-.54c-.08-.38-.25-.61-.51-.61s-.54.38-.54 1.08zm1.1.09l-1 .53c.08.37.24.59.5.59s.5-.42.5-1.12zM202.16 312.49v.58h-.73v-.58H200a11.47 11.47 0 01.33-2.88l.84.05-.55 2.16h.82v-1.08l.73-.08v1.16h.36l-.06.67zM203.09 313.07v-.65h.91v-1.76h-.81v-.57l.81-.09v-.41l.76-.06v2.88h.82l-.06.65zM202.16 319.13v.59h-.73v-.59H200a11.44 11.44 0 01.33-2.87l.84.05-.55 2.15h.82v-1.07l.73-.08v1.15h.36l-.06.67zM203.13 319.72l-.07-.61c1-.71 1.5-1.16 1.5-1.61s-.32-.5-1.4-.53l.07-.73c1.63 0 2.11.47 2.11 1.05s-.5 1.14-1.32 1.76h1.39v.67zM202.16 325.78v.59h-.73v-.59H200a11.57 11.57 0 01.33-2.88l.84.05-.55 2.16h.82V324l.73-.07v1.15h.36l-.06.67zM203.15 325.74c1.17-.07 1.49-.17 1.49-.38s-.33-.42-1.24-.54v-.34l1.11-.87h-1.3v-.67h2l.06.67-1.06.81c.83.17 1.15.51 1.15.89 0 .61-.67 1.06-2.21 1.14zM202.16 332.43v.57h-.73v-.59H200a11.57 11.57 0 01.33-2.88l.84.05-.55 2.16h.82v-1.08l.73-.08v1.16h.36l-.06.67zM205.23 332.43v.57h-.73v-.59h-1.44a11.57 11.57 0 01.33-2.88l.84.05-.55 2.16h.82v-1.08l.73-.08v1.16h.37l-.07.67z" />
+            </g>
+            <g
+               id="code">
+              <rect
+                 id="rect131"
+                 style="transform-origin: 0px 0px; stroke-dashoffset: 150.06; stroke-dasharray: 0px, 999999px;"
+                 transform="matrix(0,0,0,1,210.53999,0)"
+                 data-svg-origin="210.5399932861328 250.3300018310547"
+                 opacity=".39"
+                 fill="#a3848d"
+                 height="3.07"
+                 width="70.96"
+                 y="250.33"
+                 x="210.54"
+                 data-name="line"
+                 class="line" />
+              <rect
+                 id="rect133"
+                 style="transform-origin: 0px 0px; stroke-dashoffset: 159.26; stroke-dasharray: 0px, 999999px;"
+                 transform="matrix(0,0,0,1,210.53999,0)"
+                 data-svg-origin="210.5399932861328 256.9200134277344"
+                 opacity=".39"
+                 fill="#a58492"
+                 height="3.07"
+                 width="75.56"
+                 y="256.92"
+                 x="210.54"
+                 data-name="line"
+                 class="line" />
+              <rect
+                 id="rect135"
+                 style="transform-origin: 0px 0px; stroke-dashoffset: 131.3; stroke-dasharray: 0px, 999999px;"
+                 transform="matrix(0,0,0,1,210.53999,0)"
+                 data-svg-origin="210.5399932861328 263.57000732421875"
+                 opacity=".39"
+                 fill="#a284a3"
+                 height="3.07"
+                 width="61.58"
+                 y="263.57"
+                 x="210.54"
+                 data-name="line"
+                 class="line" />
+              <rect
+                 id="rect137"
+                 style="transform-origin: 0px 0px; stroke-dashoffset: 113.5; stroke-dasharray: 0px, 999999px;"
+                 transform="matrix(0,0,0,1,210.53999,0)"
+                 data-svg-origin="210.5399932861328 270.2799987792969"
+                 opacity=".39"
+                 fill="#9084a0"
+                 height="3.07"
+                 width="52.68"
+                 y="270.28"
+                 x="210.54"
+                 data-name="line"
+                 class="line" />
+              <rect
+                 id="rect139"
+                 style="transform-origin: 0px 0px; stroke-dashoffset: 95.5; stroke-dasharray: 0px, 999999px;"
+                 transform="matrix(0,0,0,1,210.53999,0)"
+                 data-svg-origin="210.5399932861328 276.8599853515625"
+                 opacity=".39"
+                 fill="#83859e"
+                 height="3.07"
+                 width="43.68"
+                 y="276.86"
+                 x="210.54"
+                 data-name="line"
+                 class="line" />
+              <rect
+                 id="rect141"
+                 style="transform-origin: 0px 0px; stroke-dashoffset: 154.3; stroke-dasharray: 0px, 999999px;"
+                 transform="matrix(0,0,0,1,210.53999,0)"
+                 data-svg-origin="210.5399932861328 283.55999755859375"
+                 opacity=".39"
+                 fill="#83929b"
+                 height="3.07"
+                 width="73.08"
+                 y="283.56"
+                 x="210.54"
+                 data-name="line"
+                 class="line" />
+              <rect
+                 id="rect143"
+                 style="transform-origin: 0px 0px; stroke-dashoffset: 179.58; stroke-dasharray: 0px, 999999px;"
+                 transform="matrix(0,0,0,1,210.53999,0)"
+                 data-svg-origin="210.5399932861328 290.4200134277344"
+                 opacity=".39"
+                 fill="#829995"
+                 height="3.07"
+                 width="85.72"
+                 y="290.42"
+                 x="210.54"
+                 data-name="line"
+                 class="line" />
+              <rect
+                 id="rect145"
+                 style="transform-origin: 0px 0px; stroke-dashoffset: 151.22; stroke-dasharray: 0px, 999999px;"
+                 transform="matrix(0,0,0,1,210.53999,0)"
+                 data-svg-origin="210.5399932861328 296.8599853515625"
+                 opacity=".39"
+                 fill="#84998b"
+                 height="3.07"
+                 width="71.54"
+                 y="296.86"
+                 x="210.54"
+                 data-name="line"
+                 class="line" />
+              <rect
+                 id="rect147"
+                 style="transform-origin: 0px 0px; stroke-dashoffset: 143.18; stroke-dasharray: 0px, 999999px;"
+                 transform="matrix(0,0,0,1,210.53999,0)"
+                 data-svg-origin="210.5399932861328 303.510009765625"
+                 opacity=".39"
+                 fill="#899985"
+                 height="3.07"
+                 width="67.52"
+                 y="303.51"
+                 x="210.54"
+                 data-name="line"
+                 class="line" />
+              <rect
+                 id="rect149"
+                 style="transform-origin: 0px 0px; stroke-dashoffset: 72.34; stroke-dasharray: 0px, 999999px;"
+                 transform="matrix(0,0,0,1,210.53999,0)"
+                 data-svg-origin="210.5399932861328 310.1000061035156"
+                 opacity=".39"
+                 fill="#979987"
+                 height="3.07"
+                 width="32.1"
+                 y="310.1"
+                 x="210.54"
+                 data-name="line"
+                 class="line" />
+              <rect
+                 id="rect151"
+                 style="transform-origin: 0px 0px; stroke-dashoffset: 195.1; stroke-dasharray: 0px, 999999px;"
+                 transform="matrix(0,0,0,1,210.53999,0)"
+                 data-svg-origin="210.5399932861328 316.75"
+                 opacity=".39"
+                 fill="#999488"
+                 height="3.07"
+                 width="93.48"
+                 y="316.75"
+                 x="210.54"
+                 data-name="line"
+                 class="line" />
+              <rect
+                 id="rect153"
+                 style="transform-origin: 0px 0px; stroke-dashoffset: 143.18; stroke-dasharray: 0px, 999999px;"
+                 transform="matrix(0,0,0,1,210.53999,0)"
+                 data-svg-origin="210.5399932861328 323.3999938964844"
+                 opacity=".39"
+                 fill="#998e8a"
+                 height="3.07"
+                 width="67.52"
+                 y="323.4"
+                 x="210.54"
+                 data-name="line"
+                 class="line" />
+              <rect
+                 id="rect155"
+                 style="transform-origin: 0px 0px; stroke-dashoffset: 108.2; stroke-dasharray: 0px, 999999px;"
+                 transform="matrix(0,0,0,1,210.42,0)"
+                 data-svg-origin="210.4199981689453 330.04998779296875"
+                 opacity=".39"
+                 fill="#998c8c"
+                 height="3.07"
+                 width="50.03"
+                 y="330.05"
+                 x="210.42"
+                 data-name="line"
+                 class="line" />
+            </g>
+          </g>
+          <g
+             opacity="0"
+             transform="matrix(0,0,0,0,263.99498,371.645)"
+             data-svg-origin="283.99497985839844 311.64500427246094"
+             style="transform-origin: 0px 0px;"
+             id="iterm">
+            <rect
+               id="rect159"
+               fill="#333"
+               height="38.57"
+               width="48.74"
+               y="294.33"
+               x="259.67" />
+            <path
+               id="path161"
+               fill="#d3d3d3"
+               d="M260.33 290.39h47.22a.86.86 0 01.86.86v4.38h-48.83v-4.49a.75.75 0 01.75-.75z" />
+            <circle
+               id="circle163"
+               r="1.04"
+               fill="#e84d4d"
+               cy="293.28"
+               cx="262.39" />
+            <circle
+               id="circle165"
+               r="1.04"
+               fill="#f2dd77"
+               cy="293.28"
+               cx="266.28" />
+            <circle
+               id="circle167"
+               r="1.04"
+               fill="#4eb785"
+               cy="293.28"
+               cx="269.99" />
+            <path
+               id="path169"
+               fill="#83e5ab"
+               d="M264.11 303.17a.44.44 0 01-.29-.11.37.37 0 010-.56l1.36-1.28-1.36-1.29a.36.36 0 010-.55.41.41 0 01.58 0l1.66 1.56a.36.36 0 01.12.28.36.36 0 01-.12.27l-1.66 1.57a.46.46 0 01-.29.11z" />
+            <path
+               fill="#83e5ab"
+               d="M269.33 302.78a.4.4 0 00-.41-.39h-2.42a.39.39 0 100 .78h2.42a.4.4 0 00.41-.39z"
+               id="cursor" />
+          </g>
+          <g
+             id="g240"
+             clip-path="url(#clippy)"
+             class="webpage">
+            <g
+               id="website">
+              <rect
+                 id="rect173"
+                 fill="#f0f0f2"
+                 rx="3.57"
+                 height="242.13"
+                 width="52.47"
+                 y="243.41"
+                 x="133.88" />
+              <line
+                 id="line175"
+                 stroke-width="1.2"
+                 stroke-miterlimit="10"
+                 stroke-linecap="round"
+                 stroke="#dd859c"
+                 fill="none"
+                 y2="256.81"
+                 x2="174.02"
+                 y1="256.81"
+                 x1="141.67" />
+              <line
+                 id="line177"
+                 stroke-width="1.2"
+                 stroke-miterlimit="10"
+                 stroke-linecap="round"
+                 stroke="#dd859c"
+                 fill="none"
+                 y2="262.1"
+                 x2="179.77"
+                 y1="262.1"
+                 x1="141.67" />
+              <line
+                 id="line179"
+                 stroke-width="1.2"
+                 stroke-miterlimit="10"
+                 stroke-linecap="round"
+                 stroke="#dd859c"
+                 fill="none"
+                 y2="267.4"
+                 x2="174.02"
+                 y1="267.4"
+                 x1="141.67" />
+              <rect
+                 id="rect181"
+                 fill="#f2c5c2"
+                 rx="3.22"
+                 height="28.15"
+                 width="40.59"
+                 y="275.67"
+                 x="139.83" />
+              <path
+                 id="path183"
+                 style="mix-blend-mode:overlay"
+                 opacity=".48"
+                 fill="#fff"
+                 d="M154.57 284.27a5.58 5.58 0 11-5.58-5.35 5.46 5.46 0 015.58 5.35z" />
+              <line
+                 id="line185"
+                 opacity=".68"
+                 stroke-width="1.2"
+                 stroke-miterlimit="10"
+                 stroke-linecap="round"
+                 stroke="#fff"
+                 fill="none"
+                 y2="299.31"
+                 x2="161.56"
+                 y1="299.31"
+                 x1="144.8" />
+              <line
+                 id="line187"
+                 opacity=".68"
+                 stroke-width="1.2"
+                 stroke-miterlimit="10"
+                 stroke-linecap="round"
+                 stroke="#fff"
+                 fill="none"
+                 y2="294.69"
+                 x2="169.32"
+                 y1="294.69"
+                 x1="144.8" />
+              <g
+                 id="g201">
+                <rect
+                   id="rect189"
+                   fill="#bdc0f4"
+                   rx="3.34"
+                   height="49.32"
+                   width="37.69"
+                   y="308.41"
+                   x="139.83" />
+                <line
+                   id="line191"
+                   opacity=".81"
+                   stroke-width="1.2"
+                   stroke-miterlimit="10"
+                   stroke-linecap="round"
+                   stroke="#fff"
+                   fill="none"
+                   y2="333.39"
+                   x2="157.69"
+                   y1="333.39"
+                   x1="146.12" />
+                <line
+                   id="line193"
+                   opacity=".81"
+                   stroke-width="1.2"
+                   stroke-miterlimit="10"
+                   stroke-linecap="round"
+                   stroke="#fff"
+                   fill="none"
+                   y2="328.77"
+                   x2="163.05"
+                   y1="328.77"
+                   x1="146.12" />
+                <line
+                   id="line195"
+                   opacity=".81"
+                   stroke-width="1.2"
+                   stroke-miterlimit="10"
+                   stroke-linecap="round"
+                   stroke="#fff"
+                   fill="none"
+                   y2="323.91"
+                   x2="168.46"
+                   y1="323.91"
+                   x1="146.12" />
+                <line
+                   id="line197"
+                   opacity=".81"
+                   stroke-width="1.2"
+                   stroke-miterlimit="10"
+                   stroke-linecap="round"
+                   stroke="#fff"
+                   fill="none"
+                   y2="318.62"
+                   x2="172.42"
+                   y1="318.62"
+                   x1="146.12" />
+                <line
+                   id="line199"
+                   opacity=".81"
+                   stroke-width="1.2"
+                   stroke-miterlimit="10"
+                   stroke-linecap="round"
+                   stroke="#fff"
+                   fill="none"
+                   y2="313.32"
+                   x2="168.46"
+                   y1="313.32"
+                   x1="146.12" />
+              </g>
+              <g
+                 id="g217">
+                <rect
+                   id="rect203"
+                   fill="#c2e7ef"
+                   rx="3.22"
+                   height="58.46"
+                   width="40.59"
+                   y="363.82"
+                   x="139.83" />
+                <line
+                   id="line205"
+                   opacity=".81"
+                   stroke-width="1.2"
+                   stroke-miterlimit="10"
+                   stroke-linecap="round"
+                   stroke="#fff"
+                   fill="none"
+                   y2="414.13"
+                   x2="158.87"
+                   y1="414.13"
+                   x1="144.98" />
+                <line
+                   id="line207"
+                   opacity=".81"
+                   stroke-width="1.2"
+                   stroke-miterlimit="10"
+                   stroke-linecap="round"
+                   stroke="#fff"
+                   fill="none"
+                   y2="410.5"
+                   x2="163.18"
+                   y1="410.5"
+                   x1="144.85" />
+                <line
+                   id="line209"
+                   opacity=".81"
+                   stroke-width="1.2"
+                   stroke-miterlimit="10"
+                   stroke-linecap="round"
+                   stroke="#fff"
+                   fill="none"
+                   y2="406.69"
+                   x2="166.2"
+                   y1="406.69"
+                   x1="144.62" />
+                <line
+                   id="line211"
+                   opacity=".68"
+                   stroke-width="1.2"
+                   stroke-miterlimit="10"
+                   stroke-linecap="round"
+                   stroke="#fff"
+                   fill="none"
+                   y2="402.92"
+                   x2="164.8"
+                   y1="402.92"
+                   x1="144.68" />
+                <line
+                   id="line213"
+                   opacity=".68"
+                   stroke-width="1.2"
+                   stroke-miterlimit="10"
+                   stroke-linecap="round"
+                   stroke="#fff"
+                   fill="none"
+                   y2="399.16"
+                   x2="158.5"
+                   y1="399.16"
+                   x1="144.75" />
+                <rect
+                   id="rect215"
+                   style="mix-blend-mode:overlay"
+                   opacity=".48"
+                   fill="#fff"
+                   rx="6.86"
+                   height="23.21"
+                   width="29.22"
+                   y="368.54"
+                   x="144.8" />
+              </g>
+              <g
+                 id="g237">
+                <rect
+                   id="rect219"
+                   fill="#d0b6d1"
+                   rx="3.34"
+                   height="40.46"
+                   width="39.82"
+                   y="433.67"
+                   x="140.38" />
+                <line
+                   id="line221"
+                   opacity=".81"
+                   stroke-width="1.2"
+                   stroke-miterlimit="10"
+                   stroke-linecap="round"
+                   stroke="#fff"
+                   fill="none"
+                   y2="467.66"
+                   x2="170.62"
+                   y1="467.66"
+                   x1="147.03" />
+                <line
+                   id="line223"
+                   opacity=".81"
+                   stroke-width="1.2"
+                   stroke-miterlimit="10"
+                   stroke-linecap="round"
+                   stroke="#fff"
+                   fill="none"
+                   y2="463.31"
+                   x2="174.81"
+                   y1="463.31"
+                   x1="147.03" />
+                <line
+                   id="line225"
+                   opacity=".81"
+                   stroke-width="1.2"
+                   stroke-miterlimit="10"
+                   stroke-linecap="round"
+                   stroke="#fff"
+                   fill="none"
+                   y2="458.97"
+                   x2="170.62"
+                   y1="458.97"
+                   x1="147.03" />
+                <line
+                   id="line227"
+                   opacity=".81"
+                   stroke-width="1.2"
+                   stroke-miterlimit="10"
+                   stroke-linecap="round"
+                   stroke="#fff"
+                   fill="none"
+                   y2="454.16"
+                   x2="159.25"
+                   y1="454.16"
+                   x1="147.03" />
+                <line
+                   id="line229"
+                   opacity=".81"
+                   stroke-width="1.2"
+                   stroke-miterlimit="10"
+                   stroke-linecap="round"
+                   stroke="#fff"
+                   fill="none"
+                   y2="450.37"
+                   x2="164.91"
+                   y1="450.37"
+                   x1="147.03" />
+                <line
+                   id="line231"
+                   opacity=".81"
+                   stroke-width="1.2"
+                   stroke-miterlimit="10"
+                   stroke-linecap="round"
+                   stroke="#fff"
+                   fill="none"
+                   y2="446.39"
+                   x2="170.62"
+                   y1="446.39"
+                   x1="147.03" />
+                <line
+                   id="line233"
+                   opacity=".81"
+                   stroke-width="1.2"
+                   stroke-miterlimit="10"
+                   stroke-linecap="round"
+                   stroke="#fff"
+                   fill="none"
+                   y2="442.04"
+                   x2="174.81"
+                   y1="442.04"
+                   x1="147.03" />
+                <line
+                   id="line235"
+                   opacity=".81"
+                   stroke-width="1.2"
+                   stroke-miterlimit="10"
+                   stroke-linecap="round"
+                   stroke="#fff"
+                   fill="none"
+                   y2="437.7"
+                   x2="170.62"
+                   y1="437.7"
+                   x1="147.03" />
+              </g>
+            </g>
+          </g>
+        </g>
+        <rect
+           id="rect244"
+           fill="#ddd"
+           height="4.25"
+           width="52.38"
+           y="243.95"
+           x="133.98" />
+        <ellipse
+           id="ellipse246"
+           fill="#afafaf"
+           ry=".92"
+           rx=".93"
+           cy="246.08"
+           cx="136.91" />
+        <ellipse
+           id="ellipse248"
+           fill="#eaeaea"
+           ry=".92"
+           rx=".93"
+           cy="246.08"
+           cx="140.38" />
+        <ellipse
+           id="ellipse250"
+           fill="#afafaf"
+           ry=".92"
+           rx=".93"
+           cy="246.08"
+           cx="143.69" />
+        <rect
+           id="rect252"
+           fill="#eaeaea"
+           height="2.85"
+           width="52.47"
+           y="330.05"
+           x="133.88" />
+        <rect
+           id="rect254"
+           fill="#fff"
+           height="81.84"
+           width="3.84"
+           y="248.2"
+           x="182.52" />
+        <rect
+           fill="#ddd"
+           rx="1.02"
+           height="22.21"
+           width="2.4"
+           y="249.77"
+           x="183.24"
+           id="scrollbar" />
+      </g>
+      <g
+         id="shapes">
+        <polygon
+           id="polygon258"
+           stroke-width="2"
+           stroke-miterlimit="10"
+           stroke="#88d3d1"
+           fill="none"
+           points="225.21 302.93 225.12 298.23 229.82 298.13 229.75 294.63 225.05 294.72 224.96 290.02 221.45 290.09 221.54 294.79 216.84 294.88 216.91 298.39 221.61 298.3 221.71 303 225.21 302.93"
+           opacity="0" />
+        <polygon
+           id="polygon260"
+           stroke-width="2"
+           stroke-miterlimit="10"
+           stroke="#dd859c"
+           fill="none"
+           points="233.72 295.83 227.68 294 229.5 287.95 224.99 286.58 223.16 292.63 217.11 290.81 215.75 295.32 221.8 297.15 219.97 303.2 224.48 304.56 226.31 298.51 232.36 300.34 233.72 295.83"
+           opacity="0" />
+        <circle
+           id="circle262"
+           stroke-miterlimit="10"
+           stroke="#dd859c"
+           fill="none"
+           r="6.69"
+           cy="293.5"
+           cx="220.1"
+           opacity="0" />
+        <polygon
+           id="polygon264"
+           stroke-width="2"
+           stroke-miterlimit="10"
+           stroke="#a3b2e5"
+           fill="none"
+           points="218.94 298.75 229.2 291.98 218.22 286.49 218.94 298.75"
+           opacity="0" />
+        <polygon
+           id="polygon266"
+           stroke-width="2"
+           stroke-miterlimit="10"
+           stroke="#f2c5c2"
+           fill="none"
+           points="218.8 294.79 228.32 302.56 230.28 290.44 218.8 294.79"
+           opacity="0" />
+        <polyline
+           id="polyline268"
+           stroke-miterlimit="10"
+           stroke="#f9e4ac"
+           fill="none"
+           points="205.5 300.65 210.41 302.31 211.13 297.17 216.04 298.83 216.75 293.69 221.67 295.35 222.39 290.21 227.31 291.86 228.03 286.72"
+           opacity="0" />
+        <g
+           id="g272"
+           fill="#a693d1"
+           opacity="0">
+          <path
+             id="path270"
+             d="M225.72 300.36v-1.85l5.25-1.88-5.25-1.87v-1.85l7.65 2.81v1.83zM207.71 297.55v-1.83l7.64-2.81v1.85l-5.25 1.87 5.25 1.88v1.85zM222.47 291h1.59l-4.64 11.78h-1.6z" />
+        </g>
+        <g
+           id="g276"
+           fill="#6fb6c6"
+           opacity="0">
+          <path
+             id="path274"
+             d="M216.07 295l-.61 2.58c-.33 1.43 0 2 .91 2.24l.43.12-.67 2.3-1.52-.45a2.88 2.88 0 01-2.19-3.71l.78-3.48c.26-1.2.09-1.63-1-2l.67-2.29c1.14.33 1.52.06 1.94-1.09l1.19-3.32a2.89 2.89 0 013.85-1.94l1.52.45-.67 2.29-.43-.13c-1-.28-1.48 0-2 1.39l-.88 2.51a2.27 2.27 0 01-2.43 1.75 2.29 2.29 0 011.11 2.78zM225.72 292.91l.61-2.59c.33-1.43 0-2-.91-2.23L225 288l.67-2.3 1.52.45a2.88 2.88 0 012.19 3.71l-.78 3.48c-.26 1.2-.09 1.64 1 2l-.67 2.29c-1.15-.33-1.52-.05-1.95 1.1l-1.17 3.27a2.89 2.89 0 01-3.81 2l-1.52-.44.67-2.3.43.13c1 .28 1.48 0 2-1.39l.88-2.51a2.3 2.3 0 012.44-1.75 2.28 2.28 0 01-1.18-2.83z" />
+        </g>
+        <g
+           id="g282"
+           fill="#88d3d1"
+           opacity="0">
+          <path
+             id="path278"
+             d="M218.62 299.26l2.6 1.59a5.12 5.12 0 017-1.89l.42-.69 1.26-2.06a7.82 7.82 0 00-6-.86 8.71 8.71 0 00-5.28 3.91z" />
+          <path
+             id="path280"
+             d="M218.71 292.2a14.25 14.25 0 00-4.33 4.47l2.6 1.59a10.85 10.85 0 014.74-4.22 9.78 9.78 0 019.24.44l1.68-2.75a13 13 0 00-13.93.47zM222.93 301.9l2.53 1.55 1.64-2.67a3.05 3.05 0 00-4.17 1.12z" />
+        </g>
+        <g
+           id="g286"
+           stroke-width="2"
+           stroke-linejoin="round"
+           stroke-linecap="round"
+           stroke="#fcebb6"
+           fill="none"
+           opacity="0">
+          <path
+             id="path284"
+             d="M219.32 286.24a9.49 9.49 0 01-9.49 9.5M219.32 286.24a9.49 9.49 0 009.49 9.5M219.32 305.29a9.49 9.49 0 00-9.49-9.49M219.32 305.29a9.49 9.49 0 019.49-9.49" />
+        </g>
+        <circle
+           id="circle288"
+           stroke-width="2"
+           stroke-miterlimit="10"
+           stroke="#d6a0e0"
+           fill="none"
+           r="7.06"
+           cy="290.87"
+           cx="216.63"
+           opacity="0" />
+        <polyline
+           id="polyline290"
+           stroke-width="2"
+           stroke-miterlimit="10"
+           stroke="#f9e4ac"
+           fill="none"
+           points="220.15 280.66 216.99 289.5 226.3 288.31 223.15 297.14 232.46 295.96 229.31 304.8"
+           opacity="0" />
+        <circle
+           id="circle292"
+           stroke-width="2"
+           stroke-miterlimit="10"
+           stroke="#88d3d1"
+           fill="none"
+           r="5.77"
+           cy="295.66"
+           cx="222.48"
+           opacity="0" />
+        <polygon
+           id="polygon294"
+           stroke-width="2"
+           stroke-miterlimit="10"
+           stroke="#88d3d1"
+           fill="none"
+           points="227.62 300.56 225.05 294.72 230.89 292.15 228.97 287.79 223.13 290.36 220.56 284.52 216.2 286.44 218.77 292.28 212.93 294.85 214.85 299.21 220.69 296.64 223.26 302.48 227.62 300.56"
+           opacity="0" />
+        <g
+           id="g298"
+           fill="#a693d1"
+           opacity="0">
+          <path
+             id="path296"
+             d="M224.4 300.1l1.08 1.95c.6 1.07 1.06 1.24 1.78.89l.33-.16.87 1.8-1.15.56A2.36 2.36 0 01224 304l-1.47-2.6c-.51-.89-.85-1.07-1.71-.65l-.88-1.8c.87-.42.94-.8.55-1.75l-1.14-2.77a2.37 2.37 0 011.21-3.33l1.15-.55.87 1.8-.33.16c-.72.35-.87.82-.4 1.95l.87 2.05a1.9 1.9 0 01-.47 2.43 1.89 1.89 0 012.15 1.16zM229 293.48l-1.07-2c-.6-1.07-1.06-1.24-1.78-.89l-.33.16-.88-1.81 1.15-.55a2.37 2.37 0 013.37 1.11l1.46 2.6c.51.89.85 1.07 1.72.65l.87 1.8c-.86.42-.93.8-.55 1.75l1.14 2.76a2.36 2.36 0 01-1.2 3.33l-1.15.56-.88-1.8.33-.16c.72-.35.87-.82.4-2l-.87-2a1.9 1.9 0 01.47-2.43 1.9 1.9 0 01-2.2-1.08z" />
+        </g>
+        <polygon
+           id="polygon300"
+           stroke-miterlimit="10"
+           stroke="#a3b2e5"
+           fill="none"
+           points="212.8 302.65 223.86 295.35 212.01 289.42 212.8 302.65"
+           opacity="0" />
+        <circle
+           id="circle302"
+           stroke-miterlimit="10"
+           stroke="#dd859c"
+           fill="none"
+           r="6.69"
+           cy="298.07"
+           cx="222.33"
+           opacity="0" />
+        <g
+           id="g306"
+           fill="#f2c5c2"
+           opacity="0">
+          <path
+             id="path304"
+             d="M229.4 295.5l-.82-1.66 3.88-4-5.54.64-.82-1.66 8.1-.86.81 1.64zM212 301l-.81-1.64 5.61-5.91.82 1.67-3.88 4 5.54-.64.82 1.66zM222.33 288.54l1.44-.71 1 12.62-1.43.7z" />
+        </g>
+      </g>
+    </g>
+  </g>
+</svg>
