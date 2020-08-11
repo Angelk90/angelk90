@@ -1,4 +1,4 @@
-<div align="right">
+<div align="left">
 <img src="https://raw.githubusercontent.com/Angelk90/angelk90/master/avatar.svg" width="312px" heigth="188px" />
 <img src="https://raw.githubusercontent.com/Angelk90/angelk90/master/macbookPro.svg" width="312px" heigth="188px" />
 </div>
