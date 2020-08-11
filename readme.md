@@ -3,7 +3,7 @@
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=angelk90&hide_title=true&layout=compact&show_icons=true&title_color=ffffff&icon_color=34abeb&text_color=daf7dc&bg_color=002b36" />
 <img src="https://github-readme-stats.vercel.app/api?username=angelk90&hide_title=true&show_icons=true&hide=prs,issues,contribs&title_color=ffffff&icon_color=34abeb&text_color=daf7dc&bg_color=002b36" />
 </div>
-<img src="https://raw.githubusercontent.com/Angelk90/angelk90/master/avatar.svg" width="312px" heigth="188px" />
+<img align="left" src="https://raw.githubusercontent.com/Angelk90/angelk90/master/avatar.svg" width="312px" heigth="188px" />
 
 ### Programming Languages & Databases
 <code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
