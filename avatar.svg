@@ -1,31 +1,31 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
 <svg
-   xmlns:dc="http://purl.org/dc/elements/1.1/"
-   xmlns:cc="http://creativecommons.org/ns#"
-   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
-   xmlns:svg="http://www.w3.org/2000/svg"
-   xmlns="http://www.w3.org/2000/svg"
-   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
-   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:cc="http://creativecommons.org/ns#"
+	xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+	xmlns:svg="http://www.w3.org/2000/svg"
+	xmlns="http://www.w3.org/2000/svg"
+	xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+	xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
    class="[ Contact__svg ]"
    viewBox="50 40 210 170"
    version="1.1"
    id="svg72"
    sodipodi:docname="avatar2.svg"
    inkscape:version="1.0 (4035a4f, 2020-05-01)">
-  <metadata
+	<metadata
      id="metadata76">
-    <rdf:RDF>
-      <cc:Work
+		<rdf:RDF>
+			<cc:Work
          rdf:about="">
-        <dc:format>image/svg+xml</dc:format>
-        <dc:type
+				<dc:format>image/svg+xml</dc:format>
+				<dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title />
-      </cc:Work>
-    </rdf:RDF>
-  </metadata>
-  <sodipodi:namedview
+				<dc:title />
+			</cc:Work>
+		</rdf:RDF>
+	</metadata>
+	<sodipodi:namedview
      inkscape:document-rotation="0"
      pagecolor="#ffffff"
      bordercolor="#666666"
@@ -46,40 +46,40 @@
      inkscape:window-y="23"
      inkscape:window-maximized="0"
      inkscape:current-layer="svg72" />
-  <defs
+	<defs
      id="defs16">
-    <clipPath
+		<clipPath
        id="clip-path">
-      <path
+			<path
          d="M39 153.73s31.57 19.71 77.26 15.21 90.18-37.23 90.36-72.33-8.82-80.28-33.59-86.29C136.84-6.57 114.13-5.82 88-2.82S34.73 11.45 16.71 48.24C-1.5 66.64-4.88 125.2 39 153.73z"
          fill="none"
          id="path10" />
-    </clipPath>
-    <clipPath
+		</clipPath>
+		<clipPath
        id="clip-path-2">
-      <path
+			<path
          id="mouth-clip"
          d="M98.93 112.17c2.78 1.59 7.5 1.67 9.31 1.17 2.3-.62 5.68-1.48 5.59-5.35-.06-3.22-2.93-3.73-4.72-3.41-5 .91-5.46-.2-8.93-.39-2.61-.14-4.28 1.23-4.43 3.8-.12 2.13 1.91 3.46 3.18 4.18z"
          fill="none" />
-    </clipPath>
-    <path
+		</clipPath>
+		<path
        opacity="0"
        id="yawn-clip"
        d="M105.4 117.65c6 0 7.67-1.66 7.3-5.83s-2.64-10.27-7.86-10.27-6.48 6.37-6.85 9.92 1.38 6.18 7.41 6.18z"
        fill="#fff" />
-  </defs>
-  <g
+	</defs>
+	<g
      clip-path="url(#clip-path)"
      id="g70">
-    <g
+		<g
        id="me"
        data-name="me"
        data-svg-origin="41.8001823425293 36.487213134765625"
        transform="matrix(1,0,0,1,0,0)"
        style="opacity: 1; transform-origin: 0px 0px;">
-      <g
+			<g
          id="body">
-        <path
+				<path
            id="hair-back"
            class="hair"
            d="m 126.30283,51.913049 c 2.53,1.26 10.09188,-0.433408 14.78188,17.236592 2.74,19.22 3.07188,21.928476 3.92188,26.158476 0.85,4.23 3.02341,10.291883 7.88341,19.211883 4.86,8.92 0.81,13.68 0.81,13.68 l -7.27,6.61 c 0,0 3.29,-11.81 -2.51,-16.93 0,0 1.92,13.11 0,15.85 -1.92,2.74 -8.33,6.46 -8.33,6.46 0,0 -2.37,-4.23 -4.83,-9 -2.46,-4.77 2.65,10.25 0.08,11.29 -2.57,1.04 -17.93,5.84 -29.16,3.6 -11.23,-2.24 -20.51,-4.66 -22.85,-5.4 0,0 2.62,-1.28 0.74,-7.12 -1.88,-5.84 -0.92,-7.09 -1.45,-6.52 -0.53,0.57 -2,2.77 -1,7 0.644777,2.39993 -0.05475,4.96106 -1.83,6.7 0,0 -6.78,-4.34 -12.17,-4.86 -3.044825,-0.27422 -6.057698,-0.82993 -9,-1.66 0,0 -1.770359,-8.24848 2.579641,-19.30942 4.441787,-11.29433 6.877784,-10.452 7.599059,-24.657531 0.599058,-11.798475 -4.603633,-20.418968 12.546367,-30.078968 17.15,-9.66 39.207763,-17.391032 49.457763,-8.261032 z"
@@ -88,75 +88,75 @@
            data-svg-origin="51.900489807128906 36.487213134765625"
            transform="translate(-0.84359,0.70681)"
            sodipodi:nodetypes="ccsscccscssscssccccsssc" />
-        <path
+				<path
            id="neck"
            d="M114.26 143.16v-14a9.22 9.22 0 10-18.43 0v14c-15.27 2.84-24.74 15.08-24.74 27.33H139c0-12.24-9.5-24.49-24.74-27.33z"
            fill="#ede3d1" />
-        <path
+				<path
            id="top"
            d="M105.61 167c-30.17 0-25.36-40-25.36 15.84h25.35l25-2.14c-.05-55.79 5.17-13.7-24.99-13.7z"
            fill="#fff"
            stroke="#404040"
            stroke-miterlimit="10"
            stroke-width=".5" />
-        <path
+				<path
            id="shoulder"
            d="M95.82 142.87c-16 1.84-29.37 19.5-29.37 40h29.37z"
            fill="#404040" />
-        <path
+				<path
            id="shoulder-2"
            data-name="shoulder"
            d="M114.23 142.67c15.76 1.85 29 19.6 29 40.2h-29z"
            fill="#404040" />
-      </g>
-      <path
+			</g>
+			<path
          id="shadow-3"
          data-name="shadow"
          d="M95.82 122.36h18.41v14.31s-10.5 5.54-18.41 0z"
          fill="#efceb9" />
-      <g
+			<g
          id="head"
          data-svg-origin="63.52000045776367 41.32672119140625"
          transform="matrix(1,0,0,1,0,0)"
          style="transform-origin: 0px 0px;">
-        <g
+				<g
            id="ear-left"
            class="ear"
            data-svg-origin="80.51000213623047 105.0994873046875"
            transform="matrix(1,0,0,1,-0.27728,1.42539)"
            style="transform-origin: 0px 0px;">
-          <path
+					<path
              d="M 65.672466,101.37318 C 65.753705,105.95593 67.419033,113.35146 72,113.2 c 4.575522,0.0843 8.368451,-3.52589 8.51,-8.1 -0.05869,-4.61071 -3.902009,-8.268866 -8.51,-8.1 -4.579064,-0.06731 -6.207514,-0.204802 -6.327534,4.37318 z"
              fill="#ede3d1"
              id="path28"
              sodipodi:nodetypes="ccccc" />
-          <path
+					<path
              d="M68.54 104.48a17 17 0 014.14.41c1.07.31 1.94 1 3 1.31a.39.39 0 00.43-.57c-1.15-2.38-5.49-1.86-7.58-1.67a.26.26 0 000 .52z"
              fill="#2b343b"
              id="path30" />
-        </g>
-        <g
+				</g>
+				<g
            id="ear-right"
            class="ear"
            data-svg-origin="127.48999786376953 105.21952819824219"
            transform="matrix(1,0,0,1,-0.27548,1.42139)"
            style="transform-origin: 0px 0px;">
-          <path
+					<path
              d="M 141.48341,101.57848 C 141.40691,106.11944 140.54062,113.3948 136,113.3 c -4.57764,0.0898 -8.3738,-3.5235 -8.51,-8.1 0.0818,-4.55856 3.86222,-8.177354 8.42,-8.06 4.55831,-0.06209 5.43734,-0.118228 5.57341,4.43848 z"
              fill="#ede3d1"
              id="path33"
              sodipodi:nodetypes="ccccc" />
-          <path
+					<path
              d="M139.6 104c-2.1-.19-6.43-.72-7.59 1.67a.39.39 0 00.44.57c1.07-.26 1.92-1 3-1.31a17.51 17.51 0 014.15-.41.26.26 0 000-.52z"
              fill="#2b343b"
              id="path35" />
-        </g>
-        <g
+				</g>
+				<g
            id="face"
            data-svg-origin="66.79736328125 41.32672119140625"
            transform="matrix(1,0,0,1,0.38907,-0.36297)"
            style="transform-origin: 0px 0px;">
-          <rect
+					<rect
              x="73.99"
              y="48.26"
              width="61.54"
@@ -165,12 +165,12 @@
              transform="rotate(180 104.76 88.5)"
              fill="#ede3d1"
              id="rect38" />
-          <g
+					<g
              id="inner-face"
              data-svg-origin="74.3599853515625 77.77883911132812"
              transform="matrix(1,0,0,1,1.26752,-0.87245)"
              style="transform-origin: 0px 0px;">
-            <path
+						<path
                id="eyebrow-right"
                d="M120.73 79a9 9 0 00-4-1.22 9.8 9.8 0 00-4.19.87"
                fill="none"
@@ -181,7 +181,7 @@
                data-svg-origin="112.54000091552734 77.77883911132812"
                transform="matrix(1,0,0,1,0,-0.40268)"
                style="transform-origin: 0px 0px;" />
-            <path
+						<path
                id="eyebrow-left"
                d="M97.12 79.41a9.53 9.53 0 00-4-1.11 10.58 10.58 0 00-4.2.76"
                fill="none"
@@ -192,30 +192,30 @@
                data-svg-origin="88.92000579833984 78.29693603515625"
                transform="matrix(1,0,0,1,0,-0.36703)"
                style="transform-origin: 0px 0px;" />
-            <g
+						<g
                class="mouth-g"
                id="g49">
-              <g
+							<g
                  clip-path="url(#clip-path-2)"
                  id="g46">
-                <g
+								<g
                    id="mouth"
                    class="mouth"
                    opacity="0">
-                  <ellipse
+									<ellipse
                      cx="104.95"
                      cy="106.66"
                      rx="9.92"
                      ry="9.48"
                      fill="#2b343b"
                      id="ellipse42" />
-                  <path
+									<path
                      id="tongue"
                      d="M111.44 112.27a14.53 14.53 0 01-13.29-.37s1.52-3.48 6.56-3.35 6.73 3.72 6.73 3.72z"
                      fill="#2b343b" />
-                </g>
-              </g>
-              <path
+								</g>
+							</g>
+							<path
                  id="mouth-2"
                  class="mouth"
                  data-name="mouth"
@@ -225,15 +225,15 @@
                  stroke-linecap="round"
                  stroke-linejoin="round"
                  stroke-width="1.04" />
-            </g>
-            <path
+						</g>
+						<path
                id="oh"
                opacity="0"
                d="M105.56,117.06c4-.14,5-2.89,4.7-5.64s-1.88-6.7-4.84-6.62-4.73,4.36-4.9,6.72S101.57,117.19,105.56,117.06Z"
                fill="#262528" />
-            <g
+						<g
                id="eyes">
-              <path
+							<path
                  opacity="0"
                  id="eye-left"
                  class="eye"
@@ -242,7 +242,7 @@
                  data-svg-origin="89.47734069824219 83.69889068603516"
                  transform="matrix(1,0,0,1,0.49814,1.18274)"
                  style="transform-origin: 0px 0px;" />
-              <path
+							<path
                  opacity="0"
                  id="eye-right"
                  class="eye"
@@ -251,7 +251,7 @@
                  data-svg-origin="113.6673355102539 83.69889068603516"
                  transform="matrix(1,0,0,1,0.49814,1.18274)"
                  style="transform-origin: 0px 0px;" />
-              <path
+							<path
                  id="eye-right-2"
                  class="eye"
                  data-name="eye-right"
@@ -265,7 +265,7 @@
                  data-svg-origin="114.11000061035156 88"
                  transform="matrix(1,0,0,1,0.41371,0.11376)"
                  style="transform-origin: 0px 0px;" />
-              <path
+							<path
                  id="eye-left-2"
                  class="eye"
                  data-name="eye-left"
@@ -279,34 +279,55 @@
                  data-svg-origin="89.8499984741211 87.43000030517578"
                  transform="matrix(1,0,0,1,0.41208,0.14214)"
                  style="transform-origin: 0px 0px;" />
-              <ellipse
+							<ellipse
                  cx="93"
                  cy="88"
                  rx="3"
                  ry="4"
                  id="eyel"
                  style="fill:#2b343b;stroke-width:2.15086;stop-color:#000000">
-                 <animate id="op" attributeName="ry" attributeType="XML"
-             to="1"
-             begin="1s;op.end+3s" dur="0.2s"
-             fill="remove" repeatCount="2"
-            />
-  </ellipse>
-              <ellipse
+								<animate id="op1" attributeName="ry" attributeType="XML"
+                   to="1"
+                   begin="4s;op1.end+4s" dur="0.2s"
+                   fill="remove" repeatCount="2"
+                  />
+								<animate id="op2" attributeName="cx" attributeType="XML"
+                  to="88"
+                  begin="1s;op1.end+1s" dur="1s"
+                  fill="remove" repeatCount="1"
+                 />
+								<animate id="op3" attributeName="cx" attributeType="XML"
+                 to="98"
+                 begin="2s;op1.end+2s" dur="1s"
+                 fill="remove" repeatCount="1"
+                />
+							</ellipse>
+							<ellipse
                  style="opacity:1;fill:#2b343b;stroke-width:2.15086;stop-color:#000000"
                  id="eyer"
                  ry="4"
                  rx="3"
                  cy="88"
                  cx="117">
-                 <animate id="op" attributeName="ry" attributeType="XML"
-             to="1"
-             begin="1s;op.end+3s" dur="0.2s"
-             fill="remove" repeatCount="2"
+
+            <animate id="op4" attributeName="ry" attributeType="XML"
+               to="1"
+               begin="4s;op4.end+4s" dur="0.2s"
+               fill="remove" repeatCount="2"
+              />
+            <animate id="op5" attributeName="cx" attributeType="XML"
+              to="112"
+              begin="1s;op4.end+1s" dur="1s"
+              fill="remove" repeatCount="1"
+             />
+            <animate id="op6" attributeName="cx" attributeType="XML"
+             to="122"
+             begin="2s;op4.end+2s" dur="1s"
+             fill="remove" repeatCount="1"
             />
-  </ellipse>
-            </g>
-            <path
+							</ellipse>
+						</g>
+						<path
                class="dizzy dizzy-1"
                opacity="0"
                d="M113.61,87.6c.54-2.66,2.66-3.84,4.63-3.37A3.3,3.3,0,0,1,117,90.71a2.53,2.53,0,0,1-2-3,2.48,2.48,0,0,1,2.73-1.92A1.71,1.71,0,0,1,119.32,88a1.59,1.59,0,0,1-1.75,1.34c-.79-.1-1.41-.59-1-1.42s1-.72,1.22-.24"
@@ -316,7 +337,7 @@
                stroke-miterlimit="10"
                stroke-width="0.75"
                id="path57" />
-            <path
+						<path
                class="dizzy dizzy-2"
                opacity="0"
                d="M96.15,87.27c-.54-2.66-2.66-3.84-4.63-3.37s-2.89,1.9-2.46,4a3.11,3.11,0,0,0,3.68,2.45,2.53,2.53,0,0,0,2-3A2.49,2.49,0,0,0,92,85.49a1.71,1.71,0,0,0-1.57,2.13A1.57,1.57,0,0,0,92.19,89c.79-.11,1.41-.6,1-1.43s-1-.72-1.22-.23"
@@ -326,14 +347,14 @@
                stroke-miterlimit="10"
                stroke-width="0.75"
                id="path59" />
-            <path
+						<path
                id="nose"
                d="M102.39 98.13s3.09 1.55 5.78 0"
                fill="none"
                stroke="#e0d5c1"
                stroke-linecap="round"
                stroke-linejoin="round" />
-            <path
+						<path
                id="glasses"
                d="M133.54 81.76c-4.7-1.42-15.29-2.42-19.83-.45-5.82 2.17-3.18 1.57-8.55 1.17-5.36.4-2.74 1-8.55-1.18-7.3-2.55-15.58-.24-22.25.72v2.75c2.46.24 1.26 6.78 3.06 10.32 2.13 7.23 12.69 9.55 18.19 5.49 3.9-2 7.08-10.32 7.21-12.86 0-1.64 4.15-2.57 4.61.24.11 2.53 3.42 10.69 7.28 12.62 5.5 4 16 1.74 18.17-5.49 1.8-3.54 1.69-9.92 2.88-10.32s.74-2.67 0-2.75-1.02-.1-2.22-.26zM97.25 97.49C90.94 104.81 79 101.2 78 92.3c-.7-2.62-1-7.3 1.27-9.12s6.88-1.87 9.23-2c11.14-.26 16.62 5.6 8.75 16.31zm35.12-5.19c-3.71 17.2-27.26 7.42-22.09-7.36 1.87-3.11 9.09-3.84 11.55-3.73 8.07-.04 12.7 1.79 10.54 11.09z"
                fill="#c6c6c6"
@@ -341,16 +362,16 @@
                data-svg-origin="74.3599853515625 80.13999938964844"
                transform="matrix(1,0,0,1,0,0)"
                style="transform-origin: 0px 0px;" />
-          </g>
-          <path
+					</g>
+					<path
              id="hair-front"
              d="m 101.16462,56.835874 c 0,0 23.20538,6.224126 28.95538,10.534126 4.35,6.36 4.87,17.81 7,17.81 2.13,0 0.77,-9.86 0.77,-14.55 0,-4.69 -1.85,-9.48 -5,-14.74 -3.15,-5.26 -8.27,-9.29 -15.9,-12 -7.16926,-2.691726 -14.95856,-3.278092 -22.45,-1.69 -7.81,1.62 -13,3.55 -18.23,8.31 -5.23,4.76 -8.31,8.67 -9.39,18.72 -1.08,10.05 5.29,52.84 6.71,53.09 1.42,0.25 0,-43.61 3.76,-48.31 13.18,-16.29 9.004619,-5.354126 23.77462,-17.174126 z"
              fill="#2b343b"
              data-svg-origin="66.79736328125 41.32672119140625"
              transform="translate(0.53054,2.54703)"
              sodipodi:nodetypes="ccsssccssscc" />
-        </g>
-      </g>
-    </g>
-  </g>
+				</g>
+			</g>
+		</g>
+	</g>
 </svg>
